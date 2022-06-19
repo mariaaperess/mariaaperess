@@ -11,7 +11,11 @@
   <img height="108em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaperess&layout=compact&langs_count=16&theme=onedark"/> 
   <img align="center" width="40" hight="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
-  
+
+  <h4 align="left"> Contato </h4>
+  <a href="https://instagram.com/mariaaperess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:mariaclaraperes2211@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mariaaperess" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 
